@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    
+
     // Dados da Carta 1
     char estado1;
     char codigo1[4];
